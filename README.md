@@ -1,5 +1,51 @@
 # AI-Powered Fake Influencer Detection & Brand Trust Analytics
 
+![Dashboard Banner](screenshots/dashboard_home.png)
+
+---
+
+# Live Dashboard Features
+
+## KPI Analytics
+- Total Influencers
+- Average Engagement
+- High Risk Accounts
+- Average Trust Score
+
+![KPI Dashboard](screenshots/kpi_section.png)
+
+---
+
+## Overview Analytics
+
+### Top Influencers By Followers
+
+![Overview Chart](screenshots/overview_chart.png)
+
+---
+
+## AI Insights
+
+### Engagement Distribution & Anomaly Detection
+
+![AI Insights](screenshots/ai_insights.png)
+
+---
+
+## Risk Analysis
+
+### High Risk Influencers Detection
+
+![Risk Analysis](screenshots/risk_analysis.png)
+
+---
+
+## Influencer Category Analysis
+
+![Category Analysis](screenshots/category_chart.png)
+
+---
+
 ## Problem Statement
 
 Brands spend millions on influencer marketing, but many influencers have fake followers, low engagement, or suspicious audience behavior.
